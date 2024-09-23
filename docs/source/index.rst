@@ -8,13 +8,13 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: Tools
+
+   tools/onsetpy
+
+.. toctree::
+   :maxdepth: 1
    :caption: Guides
 
    guides/python
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Tools
-
-   tools/onsetpy
-   
