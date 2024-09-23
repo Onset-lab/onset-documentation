@@ -105,7 +105,7 @@ different projects without conflict.
 
 For example, to create a virtual environment named `onsetpy`, run the following commands:
 
-.. code-block:: python
+.. code-block:: bash
     :caption: Create a virtual environment for onsetpy
 
     #1. Create a virtual environment
