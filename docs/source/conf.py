@@ -22,7 +22,7 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ["std"]
 
 templates_path = ["_templates"]
-html_extra_path = ["data/onset_logo_no_bg.png"]
+html_extra_path = ["data/onset_logo_no_bg.png", "data/SurgeryFlow.png"]
 # -- Options for HTML output
 
 html_theme = "sphinx_rtd_theme"
