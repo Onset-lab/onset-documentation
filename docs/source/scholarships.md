@@ -1,0 +1,3 @@
+# 💰 Scholarships
+
+TODO

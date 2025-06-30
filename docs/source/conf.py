@@ -3,7 +3,7 @@
 # -- Project information
 
 project = "Onset documentation"
-copyright = "2024-, Onset"
+copyright = "2024-2025, Onset"
 author = "Onset"
 
 release = ""
@@ -22,18 +22,20 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ["std"]
 
 templates_path = ["_templates"]
-html_extra_path = ["data/onset_logo_no_bg.png", "data/SurgeryFlow.png"]
+html_extra_path = ["assets/onset_logo_no_bg.png", "assets/SurgeryFlow.png"]
 # -- Options for HTML output
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "furo"
 
-html_logo = "data/onset_logo_no_bg.png"
+html_logo = "assets/onset_logo_no_bg.png"
 
-html_theme_options = {
-    "logo_only": True,
-    "display_version": True,
-    "style_nav_header_background": "#f0f2f5",
-}
+html_theme_options = {}
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
+
+html_title = "Onset Lab Manual"
+
+extensions = ["myst_parser"]
+
+source_suffix = [".rst", ".md"]
