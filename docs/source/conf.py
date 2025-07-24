@@ -31,9 +31,6 @@ html_logo = "assets/onset_logo_no_bg.png"
 
 html_theme_options = {}
 
-# -- Options for EPUB output
-epub_show_urls = "footnote"
-
 html_title = "Onset Lab Manual"
 
 extensions = ["myst_parser"]

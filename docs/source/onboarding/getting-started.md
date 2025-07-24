@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to the CRCHUM (Centre de recherche du Centre hospitalier de l'Université de Montréal)! Before your first day at the facility, please ensure you contact either **Dr. Obaïd** or **Guillaume Theaud**. This step is essential for coordinating your access credentials and ensuring a seamless onboarding experience.
+Welcome to the CRCHUM (Centre de recherche du Centre hospitalier de l'Université de Montréal)! Before your first day at the facility, please ensure you contact either **Dr. Obaid** or **Guillaume Theaud**. This step is essential for coordinating your access credentials and ensuring a seamless onboarding experience.
 
 We recommend reaching out well in advance of your planned start date to avoid delays in obtaining the necessary permissions and access cards.
 
@@ -8,7 +8,7 @@ We recommend reaching out well in advance of your planned start date to avoid de
 
 ## 🎉 Welcome to the Lab!
 
-We are delighted to have you join our laboratory team! To facilitate your integration, please schedule your initial onboarding meeting with **Dr. Obaïd** and **Guillaume Theaud**. During this meeting, you will receive all the essential information and reading materials to get started. 
+We are delighted to have you join our laboratory team! To facilitate your integration, please schedule your initial onboarding meeting with **Dr. Obaid** and **Guillaume Theaud**. During this meeting, you will receive all the essential information and reading materials to get started. 
 
 If you are a full-time student, we will also establish a recurring schedule for your weekly one-on-one meetings with Guillaume Theaud.
 
@@ -34,14 +34,18 @@ Please send the following details to Guillaume Theaud:
     - **Part-Time Students:** Attendance is optional but encouraged to share progress.
 
 ### Vacations
-- **Duration:** Full-time students are entitled to:
-    - **Two weeks** during the summer.
-    - **Approximately two weeks** during the university holiday period (based on the university calendar).
-- **Approval:** Vacation requests must be pre-approved by **Dr. Obaïd** and/or **Guillaume Theaud**.
+### Vacations
+- **Duration:** 
+    - **Full-Time Students:** Entitled to:
+        - **Two weeks** during the summer.
+        - **Approximately two weeks** during the university holiday period (based on the university calendar).
+    - **Part-Time Students:** Vacation must be discussed with **Dr. Obaid** and/or **Guillaume Theaud**.
+    - **Summer Students:** No vacation is permitted during the summer internship period.
+- **Approval:** Vacation requests must be pre-approved by **Dr. Obaid** and/or **Guillaume Theaud**.
 - **Calendar:** Approved vacation dates must be added to the shared calendar (contact Guillaume Theaud).
 
 ### Sick or Personal Leave
-- **Notification:** Inform **Guillaume Theaud** and/or **Dr. Obaïd** of any absence due to illness or personal reasons.
+- **Notification:** Inform **Guillaume Theaud** and/or **Dr. Obaid** of any absence due to illness or personal reasons.
 - **Calendar:** Record all absences in the shared calendar (contact Guillaume Theaud).
 
 ---

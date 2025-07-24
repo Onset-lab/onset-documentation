@@ -6,13 +6,13 @@ This guide provides an overview of the essential IT resources available in the l
 
 Think of the **I:\\** drive as a large, shared storage space that everyone in the lab can access from their computer when connected to the CRCHUM network.
 
-If you cannot see or access the `I:\` drive, please ask Dr. Obaïd and Guillaume Theaud to grant you access.
+If you cannot see or access the `I:\` drive, please ask Dr. Obaid and Guillaume Theaud to grant you access.
 
 Here is a breakdown of the important folders on this drive:
 
 | Path | Description | Note |
 | :--- | :--- | :--- |
-| `I:\Chercheurs\Obaid_Sami` | Dr. Obaïd's main shared folder. | |
+| `I:\Chercheurs\Obaid_Sami` | Dr. Obaid's main shared folder. | |
 | `I:\Chercheurs\Obaid_Sami\Datasets` | Contains all the shared datasets used in the lab. | **Important:** This is a read-only library. To use a dataset, please copy it to your personal project folder. **Do not edit or move the original files.** |
 | `I:\Chercheurs\Obaid_Sami\Projets_Inter_Equipe` | This is where you will store your project data. | New students should create a folder here using their first name (e.g., `Guillaume`). |
 
