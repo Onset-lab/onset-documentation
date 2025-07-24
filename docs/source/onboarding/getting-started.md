@@ -17,6 +17,7 @@ Please send the following details to Guillaume Theaud:
 - **Google Address:** For Drive access and mailing list inclusion.
 - **Date of Birth**
 - **P-Code**
+- **Study Program** (e.g. MSc in Neuoscience)
 
 ---
 
