@@ -13,9 +13,9 @@ Begin this end-of-studies guideline **one month** before your completion date.
 Arrange a discussion with **Guillaume Theaud** to plan the backup of your data on the **I:\\** drive.
 
 ### Email Actions
-Send an email to **Guillaume Theaud** with the following details:
-- Request to **remove your user session** (include your P-code).
-- Revoke access to your computer, drive, and the **I:\\** folder.
+When ready, send an email to **Guillaume Theaud** to:
+- Remove your user session (include your P-code).
+- Revoke access to Drive, and the **I:\\** folder.
 - Delete your access token.
 - Provide clear instructions for locating your backed-up data on the **I:\\** drive.
 
