@@ -64,7 +64,7 @@ In `File > Preferences > Settings`, click "Open Settings (JSON)" (icon at the to
 
 1. Install virtualenvwrapper:
     ```bash
-    pip install virtualenvwrapper
+    pip install virtualenvwrapper --break-system-packages
     ```
 2. Create a folder for your environments:
     ```bash
